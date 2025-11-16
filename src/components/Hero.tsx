@@ -89,7 +89,7 @@ const Hero = () => {
               <Github className="h-6 w-6" />
             </a>
             <a
-              href="mailto:contact@manvith.dev"
+              href="mailto:manvithudupa073@gmail.com"
               className="text-muted-foreground hover:text-primary transition-colors"
             >
               <Mail className="h-6 w-6" />

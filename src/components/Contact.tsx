@@ -27,7 +27,7 @@ const Contact = () => {
               href="mailto:contact@manvith.dev"
               className="text-muted-foreground hover:text-primary transition-colors text-sm"
             >
-              contact@manvith.dev
+              manvithudupa073@gmail.com
             </a>
           </Card>
 
